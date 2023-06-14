@@ -27,7 +27,7 @@
         "doctrine/orm": "~2.12",
         "doctrine/annotations": "~1.13",
         "symfony/yaml": "~5.4.0",
-        "twig/twig": "~3.3.4",
+        "twig/twig": "~3.4.3",
         "symfony/error-handler": "~5.4.0",
         "symfony/dependency-injection": "~5.4.0",
         "symfony/cache": "~5.4.0",
