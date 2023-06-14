@@ -1,0 +1,13 @@
+
+installer/client/node_modules/
+src/client/node_modules/
+src/client/yarn-error.log
+src/vendor/
+src/config
+src/cache/
+src/log/
+web/orangehrm.log
+web/dist/
+.env
+lib/confs/cryptokeys
+lib/log_settings.php
